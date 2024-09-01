@@ -29,3 +29,6 @@ print(cv.best_estimator_)
 # テストデータのクラスラベルを予測する
 y_pred = cv.predict(X_test)
 print(y_pred)
+
+prfint('end')
+
